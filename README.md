@@ -2,7 +2,8 @@
 
 A simple and responsive **Digital Clock** built using **HTML, CSS, and JavaScript**.  
 This project displays the current time in real-time with hours, minutes, and seconds.
-Live Link: https://abhishek-131.github.io/Digital_Clock/
+
+#Live Link: https://abhishek-131.github.io/Digital_Clock/
 
 ---
 
